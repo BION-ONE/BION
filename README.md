@@ -10,9 +10,9 @@
  
  - Irigation Control System (ICS)
   
-  - water pump
-  - water circulation tube line
-  - water reserve
+    - water pump
+    - water circulation tube line
+    - water reserve
 
 - Growlight Control System (GCS)
  
