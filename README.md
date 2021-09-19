@@ -16,12 +16,12 @@
 
 - Growlight Control System (GCS)
  
- -tbd
+    - tbd
  
 - Dual Channel Sensory System (DCSS) 
 
- -tbd
+    - tbd
  
  - Structure Controll System (SCS)
  
-  -tbd 
+    - tbd 
